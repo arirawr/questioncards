@@ -13,6 +13,7 @@
     padding: 0.8em;
     background-color: white;
     border-radius: 0.5em;
-    box-shadow: 0.1em 0.1em 0.5em 0em #333; }
+    box-shadow: 0.1em 0.1em 0.5em 0em #333;
+    cursor: pointer; }
 
 /*# sourceMappingURL=questioncards.css.map */
